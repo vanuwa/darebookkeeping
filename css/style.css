@@ -13,7 +13,8 @@
 }
 
 .about,
-.team {
+.team,
+.contact {
   margin: 40px auto;
 }
 
@@ -22,12 +23,14 @@
 }
 
 .about h3,
-.team h3 {
+.team h3,
+.contact h3 {
   margin-bottom: 40px;
 }
 
 .about h3 span,
-.team h3 span {
+.team h3 span,
+.contact h3 span {
   margin: 0 20px;
 }
 
