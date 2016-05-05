@@ -4,6 +4,10 @@
   display: block;
 }
 
+.navbar-fixed-top img {
+  margin-top: 5px;
+}
+
 .banner {
   width: 100%;
 }
