@@ -7,3 +7,19 @@
 .banner {
   width: 100%;
 }
+
+.about {
+  margin: 40px auto;
+}
+
+.about .line {
+  margin-top: 40px;
+}
+
+.about h3 {
+  margin-bottom: 40px;
+}
+
+.about h3 span {
+  margin: 0 20px;
+}
