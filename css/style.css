@@ -9,8 +9,8 @@
 }
 
 .navbar-fixed-top .navbar-nav>li {
-  margin-right: 24px;
-  padding-left: 24px;
+  margin-right: 20px;
+  padding-left: 20px;
   border-left: 1px solid #9d9d9d;
 }
 
@@ -18,7 +18,7 @@
   border-left: none;
   padding-left: 0;
 }
-
+`
 .navbar-fixed-top .navbar-nav>li:last-child {
   margin-right: 0;
 }
