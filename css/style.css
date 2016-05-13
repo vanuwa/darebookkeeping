@@ -73,3 +73,7 @@
 .team ul .text-muted {
   color: #bebebe;
 }
+
+#mc_embed_signup #mc-embedded-subscribe-form {
+  padding: 0;
+}
