@@ -37,10 +37,18 @@
   margin-top: 40px;
 }
 
+.about {
+  margin-bottom: 70px;
+}
+
 .about h3,
 .team h3,
 .contact h3 {
   margin-bottom: 40px;
+}
+
+.contact h3 {
+  margin-bottom: 60px;
 }
 
 .about h3 span,
@@ -74,6 +82,15 @@
   color: #bebebe;
 }
 
+.team p.margin-top-30 {
+  margin-top: 30px;
+}
+
 #mc_embed_signup #mc-embedded-subscribe-form {
   padding: 0;
+}
+
+#mc_embed_signup #mce-MSG {
+  width: 100%;
+  height: 100px;
 }
